@@ -1,3 +1,10 @@
+# Answer 1
+Run program:
+```
+go run test_1/main.go
+```
+You can access via [http://localhost:8080/fill](http://localhost:8080/fill) with http method `POST`
+
 # Answer 2
 Run program:
 ```
